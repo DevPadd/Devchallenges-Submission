@@ -8,7 +8,6 @@ https://devpadd.github.io/Devchallenges-Submission//404%20not%20found%20page/
 
 - my team page:
 https://devpadd.github.io/Devchallenges-Submission//My%20team%20page/
-\n
-\n
+
 note: the page wont opened if you visit the https://devpadd.github.io/Devchallenges-Submission/,
-it only show the readme.md files.
+it will only show the readme.md files.
